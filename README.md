@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TudeOrangBiasa
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning how to be a backend proggramer 
+- 🌱 I’m currently learning web development
 - 😄 Pronouns: He/Him
 
 <!---
