@@ -3,7 +3,7 @@
 <p align="center">Tools and technologies that i used : </p>
 
 ###
-<div align="center">
+<div align="left">
   <p><b>Web Technologies</b></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
   <img width="6" />
