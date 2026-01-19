@@ -41,7 +41,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" />
 <img src="https://raw.githubusercontent.com/ddev/ddev/main/docs/content/developers/logos/SVG/Logo.svg" width="35" height="35" alt="DDEV" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" height="35" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" height="35" alt="GitHub" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvinjxr8MVZ69diNIbNNMfcUljy04dIjkqPQ&s" width="35" height="35" alt="Antigravity" />
 </div>
 
