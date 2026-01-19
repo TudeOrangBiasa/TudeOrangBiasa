@@ -8,15 +8,12 @@
   Based in Badung, Bali. Currently pushing my limits to go beyond "Hello World" and building modern web experiences.
 </h3>
 
-<p align="center">
-  <a href="https://github.com/TudeOrangBiasa">
-    <img src="https://github-readme-stats.vercel.app/api?username=TudeOrangBiasa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-</p>
-
 ---
 
-### 🚀 Tools and Technologies
+<h2 align="center">🚀 Tools and Technologies</h2>
+
+<br><br>
+
 <div align="center">
 <div>
 <p><b>Web Technologies</b></p>
