@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="left">Tools and technologies that i used : </p>
+<p align="left"><b>Tools and technologies that i used : </b></p>
 
 ###
 <div align="left">
