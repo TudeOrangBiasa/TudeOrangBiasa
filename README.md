@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">🚀 Tools and Technologies</h2>
+<p align="center">🚀 Tools and Technologies</p>
 
 <br><br>
 
