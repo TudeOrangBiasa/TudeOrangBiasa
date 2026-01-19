@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 Tools and Technologies
-
+<div align="left">
 <p><b>Web Technologies</b></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35" height="35" />
@@ -31,12 +31,12 @@
 <p><b>DevOps & Development</b></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/ddev/ddev/main/docs/content/developers/logos/SVG/Logo.svg" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/ddev/ddev/main/docs/content/developers/logos/SVG/Logo.svg" width="35" height="35" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvinjxr8MVZ69diNIbNNMfcUljy04dIjkqPQ&s" width="35" height="35" />
 
 <p><b>AI Copilots</b></p>
 <img src="https://img.icons8.com/?size=100&id=mrNoLXFmvXDX&format=png&color=000000" width="35" height="35" />
 <img src="https://img.icons8.com/?size=100&id=Yl9ip6CjqAEI&format=png&color=000000" width="35" height="35" />
+</div>
 
 ---
 
