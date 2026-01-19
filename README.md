@@ -31,7 +31,7 @@
                 <td><img src="https://devicon-website.vercel.app/api/nodejs/original.svg"" width="35" height="35" alt="Nodejs" /></td>
                 <td><img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="35" height="35" alt="Shadcn UI" /></td>
                 <td><img src="https://github.com/DavidHDev/vue-bits/blob/main/src/assets/logos/vue-bits-logo-small.svg" width="35" height="35" alt="Vue Bits" /></td>
-                <td></td>
+                <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vercel-light.svg" width="35" height="35" alt="Vercel" /></td>
               </tr>
             </table>
           </td>
