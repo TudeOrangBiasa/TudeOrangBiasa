@@ -62,14 +62,6 @@
 
 ---
 
-### 📊 My Progress
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TudeOrangBiasa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <h3 align=center> 📫 Connect with me </h3>
 
 <p align="center">
