@@ -1,6 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="left"><b>Tools and technologies that i used : </b></p>
+<h3 align="center">I am Tude, a junior web developer from Badung, Bali, Indonesia. I am a Primakara University student and a member of Bajra Media, currently learning web development to go beyond just 'Hello World'.</h3>
+
+
+<h3 align="left"><b>Tools and technologies that i used : </b></h3>
 
 ###
 <div align="left">
