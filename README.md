@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 Tools and Technologies
-<div align="left" style="display: flex-col; row-gap: 20px;">
+<div align="center">
 <div>
 <p><b>Web Technologies</b></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35" height="35" alt="Vue.js" />
@@ -28,6 +28,8 @@
 <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="35" height="35" alt="Shadcn UI" />
 <img src="https://github.com/DavidHDev/vue-bits/blob/main/src/assets/logos/vue-bits-logo-small.svg" width="35" height="35" alt="Vue Bits" />
 </div>
+
+<br><br>
 
 <div>
 <p><b>Operating Systems & Shell</b></p>
@@ -41,6 +43,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" height="35" alt="Bash" />
 </div>
 
+<br><br>
+
 <div>
 <p><b>DevOps & Development</b></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" />
@@ -50,6 +54,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" height="35" alt="Git" />
 <img src="https://github.com/89luca89/distrobox/blob/main/icons/terminal-distrobox-icon.svg" width="35" height="35" alt="Distrobox" />
 </div>
+
+<br><br>
 
 <div>
 <p><b>AI Copilots</b></p>
