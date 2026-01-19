@@ -1,11 +1,22 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 I'm Tude</h1>
 
-<h3 align="center">I am Tude, a junior web developer from Badung, Bali, Indonesia. I am a Primakara University student and a member of Bajra Media, currently learning web development to go beyond just 'Hello World'.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Primakara+University+Student;Bajra+Media+Member;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
+<h3 align="center">
+  Based in Badung, Bali. Currently pushing my limits to go beyond "Hello World" and building modern web experiences.
+</h3>
 
-<h3 align="left"><b>Tools and technologies that i used : </b></h3>
+<p align="center">
+  <a href="https://github.com/TudeOrangBiasa">
+    <img src="https://github-readme-stats.vercel.app/api?username=TudeOrangBiasa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+</p>
 
 ###
+<h4 align="left">Tools and technologies that i used : </h4>
+
 <div align="left">
   <p><b>Web Technologies</b></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
