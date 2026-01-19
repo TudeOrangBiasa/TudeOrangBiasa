@@ -19,11 +19,15 @@
 ### 🚀 Tools and Technologies
 <div align="left">
 <p><b>Web Technologies</b></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35" height="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35" height="35" />
-<img src="https://skillicons.dev/icons?i=tailwind" width="35" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35" height="35" alt="Vue.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35" height="35" alt="Laravel" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="35" height="35" alt="Tailwind CSS" />
+<img src="https://img.icons8.com/?size=100&id=YO3YqSaTOu5K&format=png&color=000000" width="35" height="35" alt="Vite.js" />
+<img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="35" height="35" alt="Shadcn UI" />
+<img src="https://github.com/DavidHDev/vue-bits/blob/main/src/assets/logos/vue-bits-logo-small.svg" width="35" height="35" alt="Vue Bits" />
 
 <p><b>Operating Systems & Shell</b></p>
+<img src="https://devicon-website.vercel.app/api/linux/original.svg" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="35" height="35" />
@@ -31,6 +35,9 @@
 <p><b>DevOps & Development</b></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/ddev/ddev/main/docs/content/developers/logos/SVG/Logo.svg" width="35" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" height="35" />
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvinjxr8MVZ69diNIbNNMfcUljy04dIjkqPQ&s" width="35" height="35" />
 
 <p><b>AI Copilots</b></p>
