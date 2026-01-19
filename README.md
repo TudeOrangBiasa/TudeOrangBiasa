@@ -65,7 +65,7 @@
 <h3 align=center> 📫 Connect with me </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/i-putu-gede-saputra">
+  <a href="https://linkedin.com/in/i-putu-gede-saputra-84230b326">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="mailto:tudebaliirl@gmail.com">
