@@ -62,7 +62,7 @@
 
 ---
 
-### 📫 Connect with me
+<h1 align=center> 📫 Connect with me </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/i-putu-gede-saputra">
