@@ -17,8 +17,8 @@
 ---
 
 ### 🚀 Tools and Technologies
-<div align="left">
-<div style="margin-bottom: 10px;">
+<div align="left" style="display: flex-col; row-gap: 20px;">
+<div>
 <p><b>Web Technologies</b></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35" height="35" alt="Vue.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35" height="35" alt="Laravel" />
@@ -29,7 +29,7 @@
 <img src="https://github.com/DavidHDev/vue-bits/blob/main/src/assets/logos/vue-bits-logo-small.svg" width="35" height="35" alt="Vue Bits" />
 </div>
 
-<div style="margin-bottom: 10px;">
+<div>
 <p><b>Operating Systems & Shell</b></p>
 <img src="https://devicon-website.vercel.app/api/linux/original.svg" width="35" height="35" alt="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="35" height="35" alt="Ubuntu" />
@@ -41,7 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" height="35" alt="Bash" />
 </div>
 
-<div style="margin-bottom: 10px;">
+<div>
 <p><b>DevOps & Development</b></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvinjxr8MVZ69diNIbNNMfcUljy04dIjkqPQ&s" width="35" height="35" alt="Antigravity" />
@@ -51,7 +51,7 @@
 <img src="https://github.com/89luca89/distrobox/blob/main/icons/terminal-distrobox-icon.svg" width="35" height="35" alt="Distrobox" />
 </div>
 
-<div style="margin-bottom: 10px;">
+<div>
 <p><b>AI Copilots</b></p>
 <img src="https://img.icons8.com/?size=100&id=mrNoLXFmvXDX&format=png&color=000000" width="35" height="35" alt="Gemini" />
 <img src="https://img.icons8.com/?size=100&id=Yl9ip6CjqAEI&format=png&color=000000" width="35" height="35" alt="Copilot" />
