@@ -62,6 +62,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" height="30" alt="claude logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=mrNoLXFmvXDX&format=png&color=000000" height="30" alt="gemini logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=Yl9ip6CjqAEI&format=png&color=000000" height="30" alt="copilot logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/ddev/ddev/main/docs/content/developers/logos/SVG/Logo.svg" height="30" alt="ddev logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="30" alt="linux mint logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" height="30" alt="shadcn ui logo"  />
 </div>
 
 ###
