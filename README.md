@@ -1,110 +1,119 @@
-<h1 align="center">Hey 👋 I'm Tude</h1>
+<h1 align="left">Hey 👋 I'm Tude Saputra</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Primakara+University+Student;Bajra+Media+Member;Tech+Enthusiast" alt="Typing SVG" />
-</p>
+###
 
-<h3 align="center">
-  Based in Badung, Bali. Currently pushing my limits to go beyond "Hello World" and building modern web experiences.
-</h3>
+<h3 align="left">Informatics Student @ Primakara University | Member of Bajra Media (Inbis Primakara)</h3>
 
----
+###
 
-<h3 align="center">🚀 Tools and Technologies</h3>
+<p align="left">Currently pushing my limits to go beyond "Hello World" and building modern web experiences. Deeply exploring the intersection of AI and automation with a focus on agentic engineering, all while being based in Badung, Denpasar, Bali 🌴.</p>
 
-<div align="center">
-<table border="0">
-  <tr>
-    <td valign="top" style="padding-right:30px;">
-      <table border="1">
-        <tr>
-          <td align="center">
-            <p><b>Web Technologies</b></p>
-            <table border="0">
-              <tr>
-                <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35" height="35" alt="Vue.js" /></td>
-                <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35" height="35" alt="Laravel" /></td>
-                <td><img src="https://skillicons.dev/icons?i=tailwind" width="35" height="35" alt="Tailwind CSS" /></td>
-                <td><img src="https://img.icons8.com/?size=100&id=YO3YqSaTOu5K&format=png&color=000000" width="35" height="35" alt="Vite.js" /></td>
-              </tr>
-              <tr>
-                <td><img src="https://devicon-website.vercel.app/api/nodejs/original.svg"" width="35" height="35" alt="Nodejs" /></td>
-                <td><img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="35" height="35" alt="Shadcn UI" /></td>
-                <td><img src="https://github.com/DavidHDev/vue-bits/blob/main/src/assets/logos/vue-bits-logo-small.svg" width="35" height="35" alt="Vue Bits" /></td>
-                <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vercel-light.svg" width="35" height="35" alt="Vercel" /></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" style="padding-top:15px;">
-            <p><b>DevOps & Development</b></p>
-            <table border="0">
-              <tr>
-                <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" /></td>
-                <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvinjxr8MVZ69diNIbNNMfcUljy04dIjkqPQ&s" width="35" height="35" alt="Antigravity" /></td>
-                <td><img src="https://raw.githubusercontent.com/ddev/ddev/main/docs/content/developers/logos/SVG/Logo.svg" width="35" height="35" alt="DDEV" /></td>
-              </tr>
-              <tr>
-                <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" height="35" alt="Docker" /></td>
-                <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" height="35" alt="Git" /></td>
-                <td><img src="https://github.com/89luca89/distrobox/blob/main/icons/terminal-distrobox-icon.svg" width="35" height="35" alt="Distrobox" /></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td valign="top" style="padding-left:30px;">
-      <table border="1">
-        <tr>
-          <td align="center">
-            <p><b>Operating Systems & Shell</b></p>
-            <table border="0">
-              <tr>
-                <td><img src="https://devicon-website.vercel.app/api/linux/original.svg" width="35" height="35" alt="Linux" /></td>
-                <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="35" height="35" alt="Ubuntu" /></td>
-                <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" width="35" height="35" alt="Linux Mint" /></td>
-                <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="35" height="35" alt="Arch Linux" /></td>
-              </tr>
-              <tr>
-                <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="35" height="35" alt="Debian" /></td>
-                <td><img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" width="35" height="35" alt="Kali Linux" /></td>
-                <td><img src="https://github.com/Zsh-art/logo/blob/main/svg/white_vertical_icon.svg" width="35" height="35" alt="Zsh" /></td>
-                <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" height="35" alt="Bash" /></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" style="padding-top:15px;">
-            <p><b>AI Copilots</b></p>
-            <table border="0">
-              <tr>
-                <td><img src="https://img.icons8.com/?size=100&id=mrNoLXFmvXDX&format=png&color=000000" width="35" height="35" alt="Gemini" /></td>
-                <td><img src="https://img.icons8.com/?size=100&id=Yl9ip6CjqAEI&format=png&color=000000" width="35" height="35" alt="Copilot" /></td>
-                <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" width="35" height="35" alt="Claude" /></td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+###
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/125188681?s=400&u=3673829c5d1c1d04060d60c481b73964b7278d1a&v=4"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="30" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=YO3YqSaTOu5K&format=png&color=000000" height="30" alt="vitejs logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" height="30" alt="shadcn ui logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/DavidHDev/vue-bits/main/src/assets/logos/vue-bits-logo-small.svg" height="30" alt="vue bits logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vercel-light.svg" height="30" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvinjxr8MVZ69diNIbNNMfcUljy04dIjkqPQ&s" height="30" alt="antigravity logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/ddev/ddev/main/docs/content/developers/logos/SVG/Logo.svg" height="30" alt="ddev logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/89luca89/distrobox/main/icons/terminal-distrobox-icon.svg" height="30" alt="distrobox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="30" alt="linux mint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="30" alt="arch linux logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" height="30" alt="kali linux logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/Zsh-art/logo/main/svg/white_vertical_icon.svg" height="30" alt="zsh logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=mrNoLXFmvXDX&format=png&color=000000" height="30" alt="gemini logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=Yl9ip6CjqAEI&format=png&color=000000" height="30" alt="copilot logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" height="30" alt="claude logo"  />
 </div>
----
 
-<h3 align=center> 📫 Connect with me </h3>
+###
 
-<p align="center">
-  <a href="https://linkedin.com/in/i-putu-gede-saputra-84230b326">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+<div align="left">
+  <a href="https://www.instagram.com/todaysaputra/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:tudebaliirl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  <a href="tudebaliirl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://instagram.com/todaysaputra">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="30" />
+  <a href="www.linkedin.com/in/i-putu-gede-saputra-84230b326" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</p>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/TudeOrangBiasa/TudeOrangBiasa/output/snake.svg" alt="Snake animation" />
+
+###
