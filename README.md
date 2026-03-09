@@ -62,38 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=YO3YqSaTOu5K&format=png&color=000000" height="30" alt="vitejs logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" height="30" alt="shadcn ui logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/DavidHDev/vue-bits/main/src/assets/logos/vue-bits-logo-small.svg" height="30" alt="vue bits logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vercel-light.svg" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvinjxr8MVZ69diNIbNNMfcUljy04dIjkqPQ&s" height="30" alt="antigravity logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/ddev/ddev/main/docs/content/developers/logos/SVG/Logo.svg" height="30" alt="ddev logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/89luca89/distrobox/main/icons/terminal-distrobox-icon.svg" height="30" alt="distrobox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="30" alt="linux mint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="30" alt="arch linux logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" height="30" alt="kali linux logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/Zsh-art/logo/main/svg/white_vertical_icon.svg" height="30" alt="zsh logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=mrNoLXFmvXDX&format=png&color=000000" height="30" alt="gemini logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=Yl9ip6CjqAEI&format=png&color=000000" height="30" alt="copilot logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" height="30" alt="claude logo"  />
 </div>
 
 ###
