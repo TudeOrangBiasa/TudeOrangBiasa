@@ -19,34 +19,10 @@ Tools   : Git + Figma
 Focus   : AI workflows, automation, agents
 Contact : tudebaliirl@gmail.com
 Locale  : id_ID.UTF-8
-Palette : █ █ █ █ █ █ █ █
 ```
 
-<table>
-<tr>
-<td bgcolor="#1a1b26">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#f7768e">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#9ece6a">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#e0af68">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#7aa2f7">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#bb9af7">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#7dcfff">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#c0caf5">&nbsp;&nbsp;&nbsp;</td>
-</tr>
-<tr>
-<td bgcolor="#414868">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#ff899d">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#9fe044">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#faba4a">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#8db0ff">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#c7a9ff">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#a4e4ff">&nbsp;&nbsp;&nbsp;</td>
-<td bgcolor="#ffffff">&nbsp;&nbsp;&nbsp;</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,vue,mysql,tailwind,git&theme=light" />
 
 </td>
 </tr>
 </table>
-
-[![Skills](https://skillicons.dev/icons?i=php,laravel,js,react,vue,mysql,tailwind,git&theme=light)](https://skillicons.dev)
