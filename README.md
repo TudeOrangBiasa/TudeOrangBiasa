@@ -13,7 +13,9 @@ Edu     : Informatics, Primakara University
 Host    : Bajra Media (Inbis Primakara)
 Location: Badung, Denpasar, Bali
 Stack   : Laravel + React / Vue
-DB      : MySQL + Tailwind + Git
+UI      : Tailwind CSS
+DB      : MySQL
+Tools   : Git + Figma
 Focus   : AI workflows, automation, agents
 Contact : tudebaliirl@gmail.com
 ```
