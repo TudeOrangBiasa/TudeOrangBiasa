@@ -18,7 +18,7 @@ DB      : MySQL
 Tools   : Git + Figma
 Focus   : AI workflows, automation, agents
 Contact : tudebaliirl@gmail.com
-Locale  : en_US.UTF-8
+Locale  : id_ID.UTF-8
 ```
 
 <div>
